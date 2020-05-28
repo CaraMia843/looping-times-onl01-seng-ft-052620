@@ -1,4 +1,3 @@
 7.times do
-  ""
- 
-end
+  "Wingardium Leviosa"
+ end
